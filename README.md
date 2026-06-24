@@ -1,3 +1,5 @@
+[Español](README.md) | [English](README.en.md)
+
 # RugidosWebSite — Sitio Web Comercial para Salón de Fiestas Infantiles (Legacy 2023)
 
 Plataforma web completa para **Rugidos Fiestas Tandil**, un salón de fiestas infantiles ubicado en Tandil, Buenos Aires. El sitio estuvo deployeado y en producción desde su desarrollo hasta que fue reemplazado por una ([versión actualizada](https://github.com/IvanGomezDellOsa/RugidosWebSite))
