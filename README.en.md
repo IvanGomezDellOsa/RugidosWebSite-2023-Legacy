@@ -2,7 +2,7 @@
 
 # RugidosWebSite — Commercial Website for a Children's Party Venue (Legacy 2023)
 
-A complete web platform for **Rugidos Fiestas Tandil**, a children's party venue located in Tandil, Buenos Aires. The site was deployed and in production from its development until it was replaced by an updated version.
+A complete web platform for **Rugidos Fiestas Tandil**, a children's party venue located in Tandil, Buenos Aires. The site was deployed and in production from its development until it was replaced by an ([updated version](https://github.com/IvanGomezDellOsa/RugidosWebSite))
 
 ---
 
