@@ -93,6 +93,7 @@ A project developed **without LLM assistance**, in 2023. All the code — HTML s
 
 **Iván Gómez Dell'Osa**
 
+- Web: [ivangomezdellosa.com.ar](https://www.ivangomezdellosa.com.ar)
 - Email: [ivangomezdellosa@gmail.com](mailto:ivangomezdellosa@gmail.com)
 - LinkedIn: [linkedin.com/in/ivangomezdellosa](https://www.linkedin.com/in/ivangomezdellosa/)
 - GitHub: [IvanGomezDellOsa](https://github.com/IvanGomezDellOsa)
